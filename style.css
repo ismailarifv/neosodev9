@@ -1,0 +1,66 @@
+.tum{
+    border: 2px solid;
+    padding: 2%;
+}
+.nav{
+    width:100%;
+    height: 150px;
+    background-color: blue;
+    border: 2px solid;
+    margin-bottom: 10px;
+    
+}
+.ortakisim{
+    display: flex;
+
+
+}
+.soltaraf{
+    width: 60%;
+    height: 450px;
+    background-color: white;
+    margin-right: 10px;
+}
+.yesilleft{
+    width: 100%;
+    height: 35%;
+    background-color: green;
+    border: 2px solid;
+    margin-bottom: 10px;
+}
+.mavileft{
+    width: 100%;
+    height: 65%;
+    background-color: blue;
+    border: 2px solid;
+    
+}
+.sagtaraf{
+    width: 40%;
+    height: 450px;
+    background-color: white;
+}
+.maviright{
+    width: 100%;
+    height: 80%;
+    background-color: blue;
+    border: 2px solid;
+    margin-bottom: 10px;
+}
+.yesilright{
+    width: 100%;
+    height: 20%;
+    background-color: green;
+    border: 2px solid;
+}
+.altkisim{
+    width: 100%;
+    height: 200px;
+    background-color: green;
+    border: 2px solid;
+    margin-top: 25px;
+}
+.yazi{
+    text-align: center;
+    font-weight: bolder;
+}
